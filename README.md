@@ -15,11 +15,11 @@ Steps to run:
 
 ### 1: Get Source
 
-`git clone https://github.com/franktanah/docker-api-mongo`
+`git clone https://github.com/franktanah/docker-api-mongoDB`
 
 ### 2: Change directory
 
-`cd docker-api-mongo`
+`cd docker-docker-api-mongoDB`
 
 ### 3: Run Docker Compose
 
