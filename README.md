@@ -1,4 +1,5 @@
-# Docker Compose to run 2 (or more) containers, allowing APIs to access MongoDB
+# Docker Compose to run 2 (or more) containers: 
+## allowing APIs to access MongoDB
 
 Steps:
 
