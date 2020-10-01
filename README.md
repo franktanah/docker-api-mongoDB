@@ -19,7 +19,7 @@ Steps to run:
 
 ### 2: Change directory
 
-`cd docker-docker-api-mongoDB`
+`cd docker-api-mongoDB`
 
 ### 3: Run Docker Compose
 
