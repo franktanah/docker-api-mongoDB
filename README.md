@@ -10,9 +10,18 @@ An index.js file contains the CRUD APIs to retrieve the data from
 the MongoDB
 
 ---
-### 1st: Write a Simple Express Server
+### Establish connection to Mongo and write APIs 
 `index.js`
 ![](index.jpg)
+
+### Design the database schema
+`Items.js`
+![](Items.jpg)
+
+### Create a simple HTML view
+`index.ejs`
+![](ejs.jpg)
+
 
 Steps to run:
 
