@@ -23,4 +23,12 @@ Steps to run:
 
 ### 3: Run Docker Compose
 
-`docker-compose up`  
+`docker-compose up`
+
+### 4: Add data to the database 
+
+`website address: localhost:80`
+
+There is a frontend interface with a textbox and a "Add" button
+if everything runs successfully
+
