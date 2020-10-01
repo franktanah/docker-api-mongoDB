@@ -3,9 +3,8 @@
 ---
 ---
 ### Establish connection to Mongo and write APIs 
-The index.js file contains the CRUD APIs to add and retrieve 
-the data from the MongoDB
-`index.js`
+The `index.js` file contains the CRUD APIs to add and retrieve 
+the data from MongoDB
 ![](index.jpg)
 
 ### Design the database schema
@@ -22,8 +21,8 @@ the data from the MongoDB
 
 ### Create a docker-compose.yml file
 A docker-compose yml file is required to run 2 or more containers.
-To link the Express container with the MongoDB container
-using the keyword: `link`
+To link the Express container with the MongoDB container, 
+use the keyword: `link`
 
 `docker-compose.yml`
 ![](docker-compose.jpg)
