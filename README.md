@@ -10,6 +10,9 @@ An index.js file contains the CRUD APIs to retrieve the data from
 the MongoDB
 
 ---
+### 1st: Write a Simple Express Server
+`index.js`
+![](index.jpg)
 
 Steps to run:
 
