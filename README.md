@@ -1,7 +1,7 @@
 ## Docker Compose to run 2 (or more) containers: Express.js and MongoDB
 
 ---
----
+
 ### Establish connection to Mongo and write APIs 
 The `index.js` file contains the CRUD APIs to add and retrieve 
 the data from MongoDB
