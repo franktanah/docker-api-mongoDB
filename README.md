@@ -1,5 +1,7 @@
 ## Docker Compose to run 2 (or more) containers: Express.js and MongoDB
 
+---
+
 A docker-compose yml file is required to run 2 containers.
 To link the Express container with the MongoDB container
 using the keyword: `link`
