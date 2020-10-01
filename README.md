@@ -28,7 +28,7 @@ the MongoDB
 
 ### Create a docker-compose.yml file
 `docker-compose.yml`
-![](dockerfile-compose.jpg.jpg)
+![](docker-compose.jpg)
 
 ---
 
