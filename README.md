@@ -30,5 +30,5 @@ Steps to run:
 `website address: localhost:80`
 
 There is a frontend interface with a textbox and a "Add" button
-if everything runs successfully
+to add items to the database - if everything runs successfully
 
