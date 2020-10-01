@@ -30,6 +30,8 @@ the MongoDB
 `docker-compose.yml`
 ![](docker-compose.jpg)
 
+---
+
 Steps to run:
 
 ### 1: Get Source
