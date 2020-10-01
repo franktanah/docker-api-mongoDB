@@ -22,6 +22,13 @@ the MongoDB
 `index.ejs`
 ![](ejs.jpg)
 
+### Create a Dockerfile
+`Dockerfile`
+![](Dockerfile.jpg)
+
+### Create a docker-compose.yml file
+`docker-compose.yml`
+![](docker-compose.jpg)
 
 Steps to run:
 
