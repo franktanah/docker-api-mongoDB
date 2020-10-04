@@ -39,11 +39,20 @@ Steps to run:
 
 `cd docker-api-mongoDB`
 
-### 3: Run Docker Compose
+### 3: Create image for mongoDB
+
+`docker run -d -p 27017:27017 -v ~/data:/data/db mongo`
+
+### 4: Create image for express
+
+`docker build .`
+`docker tag <IMAGE_ID> expressimage:latest`
+
+### 5: Run Docker Compose
 
 `docker-compose up`
 
-### 4: Add data to the database 
+### 6: Add data to the database 
 
 `website address: localhost:80`
 
