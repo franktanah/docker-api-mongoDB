@@ -46,6 +46,7 @@ Steps to run:
 ### 4: Create image for express
 
 `docker build .`
+
 `docker tag <IMAGE_ID> expressimage:latest`
 
 ### 5: Run Docker Compose
